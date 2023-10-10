@@ -50,7 +50,16 @@ function Contributors() {
       social1: "https://twitter.com/KabirShukl",
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
+    },{
+      id: 6,
+      name: "Himanshi",
+      img: "https://github.com/himanshi41.png"
+      role: "App Development Contributor",
+      social1: "https://pbs.twimg.com/profile_images/1431892828410421249/bE0nTdPw_400x400.jpg"
+      social2: "https://www.linkedin.com/in/himanshi-dhyani-abb850245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      desc: "Student from second year"
     },
+
 
 // Use this template below
 
